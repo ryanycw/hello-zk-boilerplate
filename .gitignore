@@ -1,3 +1,6 @@
+packages/core/build/typechain/
+packages/core/build/contracts/
+
 # Logs
 logs
 *.log
