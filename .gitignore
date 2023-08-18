@@ -1,5 +1,6 @@
 packages/core/build/typechain/
 packages/core/build/contracts/
+packages/core/cache/
 
 # Logs
 logs
